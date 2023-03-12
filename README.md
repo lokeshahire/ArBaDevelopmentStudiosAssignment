@@ -20,8 +20,8 @@
 
 # HOMEPAGE :
 
-![HOMEPAGE]("./images/Homepage.png")
-![HOMEPAGE]("./images/Modal.png")
+![HOMEPAGE](https://github.com/lokeshahire/ArBaDevelopmentStudiosAssignment/blob/main/src/images/Homepage.png?raw=true)
+![MODEL](https://github.com/lokeshahire/ArBaDevelopmentStudiosAssignment/blob/main/src/images/Modal.png?raw=true)
 
 <br>
 <br>
@@ -29,35 +29,35 @@
 
 # LOGIN PAGE:
 
-![LOGIN]("./images/Login.png")
+![LOGIN](https://github.com/lokeshahire/ArBaDevelopmentStudiosAssignment/blob/main/src/images/Login.png?raw=true)
 <br>
 <br>
 <br>
 
 # PROFILE PAGE :
 
-![PROFILE]("./images/Profile.png")
+![PROFILE](https://github.com/lokeshahire/ArBaDevelopmentStudiosAssignment/blob/main/src/images/Profile.png?raw=true)
 <br>
 <br>
 <br>
 
 # PRODUCT PAGE:
 
-![PRODUCT]("./images/Product.png")
+![PRODUCT](https://github.com/lokeshahire/ArBaDevelopmentStudiosAssignment/blob/main/src/images/Product.png?raw=true)
 <br>
 <br>
 <br>
 
 # CART PAGE:
 
-![CART]("./images/Card.png")
+![CART](https://github.com/lokeshahire/ArBaDevelopmentStudiosAssignment/blob/main/src/images/Card.png?raw=true)
 <br>
 <br>
 <br>
 
 # CODINGCHALLENGE PAGE :
 
-![CODINGCHALLENGE]("./images/CodingChallenge.png")
+![CODINGCHALLENGE](https://github.com/lokeshahire/ArBaDevelopmentStudiosAssignment/blob/main/src/images/CodingChallenge.png?raw=true)
 <br>
 <br>
 <br>
