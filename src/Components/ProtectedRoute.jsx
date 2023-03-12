@@ -7,6 +7,7 @@ const ProtectedRoute = ({ Component }) => {
 
   useEffect(() => {
     if (!token) {
+      alert("Login First");
       return navigate("/");
     }
   });
