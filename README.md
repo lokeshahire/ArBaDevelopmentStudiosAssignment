@@ -21,6 +21,10 @@
 # HOMEPAGE :
 
 ![HOMEPAGE](https://github.com/lokeshahire/ArBaDevelopmentStudiosAssignment/blob/main/src/images/Homepage.png?raw=true)
+<br>
+<br>
+<br>
+<br>
 ![MODEL](https://github.com/lokeshahire/ArBaDevelopmentStudiosAssignment/blob/main/src/images/Modal.png?raw=true)
 
 <br>
